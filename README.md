@@ -1,2 +1,0 @@
-# andre
-Andre Design System
